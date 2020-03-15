@@ -19,9 +19,6 @@ end
 
 end
 
-require 'spec_helper'
-
-require 'card'
 
 RSpec.describe 'a playing card' do
     it 'has a suit'do
