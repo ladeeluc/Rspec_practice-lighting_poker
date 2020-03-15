@@ -1,5 +1,5 @@
 require 'spec_helper'
-require 'card_spec.rb'
+
 require 'card'
 
 RSpec.describe 'a playing card' do

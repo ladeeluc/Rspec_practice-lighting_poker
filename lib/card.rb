@@ -6,8 +6,8 @@ class Card
             when  :queen then 12
             when  :king then 13
             else rank
-            end
-     end      
+        end
+    end      
 
 def suit
      @suit
