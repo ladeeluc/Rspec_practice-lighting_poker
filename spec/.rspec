@@ -1,2 +1,1 @@
---color
---format <%= true ? 'documentation' : 'progress' %>
+--force-color
